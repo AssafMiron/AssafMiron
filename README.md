@@ -8,7 +8,7 @@ I’m currently working in **[CyberArk](https://CyberArk.com)** as a Product Man
 Some of the projects i'm working on:
 
 <a href="https://github.com/cyberark/epv-api-scripts">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberark&repo=epv-api-scripts" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberark&repo=epv-api-scripts" />
 </a>
 
 <br><br>
