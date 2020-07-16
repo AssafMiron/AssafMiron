@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/3f5402efef9a0ae89211a6e04609558e862ca616/images/topbanner.png" alt="Assaf Miron">
+<img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/master/images/topbanner.png" alt="Assaf Miron">
 ### Hi there 👋
 
 I'm a Product Manager who likes to script every now and then
@@ -11,8 +11,8 @@ I’m currently working in **[CyberArk](https://CyberArk.com)** as a Product Man
   <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/assaf-miron/" alt="Linkedin"><img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:assaf.miron@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/assaf-miron/" alt="Linkedin"><img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/master/readme/linkedin-fill.svg"></a>
+    <a href="mailto:assaf.miron@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/master/readme/mail-fill.svg"></a>
   </p>
 
   <p align="center">
