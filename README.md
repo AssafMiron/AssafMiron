@@ -12,12 +12,7 @@ Some of the projects i'm working on:
 <a href="https://github.com/cyberark/epv-api-scripts">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberark&repo=epv-api-scripts" />
 </a>
-<a href="https://github.com/AssafMiron/Migrate-DetectedAccounts">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AssafMiron&repo=Migrate-DetectedAccounts" />
-</a>
-<a href="https://github.com/AssafMiron/CYBRHardening">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AssafMiron&repo=CYBRHardening" />
-</a>
+
 
 <hr>
 <p align="center">
