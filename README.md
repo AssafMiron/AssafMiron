@@ -1,10 +1,23 @@
 <img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/master/images/topbanner.png" alt="Assaf Miron">
+
 ### Hi there 👋
 
 I'm a Product Manager who likes to script every now and then
 I’m currently working in **[CyberArk](https://CyberArk.com)** as a Product Manager also maintaining the [CyberArk EPV API sample repository](https://github.com/cyberark/epv-api-scripts) (feel free to contribute)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AssafMiron&show_icons=true)
+
+Some of the projects i'm working on:
+
+<a href="https://github.com/cyberark/epv-api-scripts">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberark&repo=epv-api-scripts" />
+</a>
+<a href="https://github.com/AssafMiron/Migrate-DetectedAccounts">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AssafMiron&repo=Migrate-DetectedAccounts" />
+</a>
+<a href="https://github.com/AssafMiron/CYBRHardening">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AssafMiron&repo=CYBRHardening" />
+</a>
 
 <hr>
 <p align="center">
