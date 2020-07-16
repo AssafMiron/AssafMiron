@@ -11,11 +11,12 @@ Some of the projects i'm working on:
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberark&repo=epv-api-scripts" />
 </a>
 
+<br><br>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AssafMiron&show_icons=true)
 
-<br><br>
 
+<br><br>
 <hr>
 <p align="center">
   <i>Let's connect and chat!</i>
