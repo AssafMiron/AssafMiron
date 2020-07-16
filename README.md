@@ -1,4 +1,24 @@
+<img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/3f5402efef9a0ae89211a6e04609558e862ca616/images/topbanner.png" alt="Assaf Miron">
 ### Hi there 👋
+
+I'm a Product Manager who likes to script every now and then
+I’m currently working in **[CyberArk](https://CyberArk.com)** as a Product Manager also maintaining the [CyberArk EPV API sample repository](https://github.com/cyberark/epv-api-scripts) (feel free to contribute)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=AssafMiron&show_icons=true)
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat!</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/assaf-miron/" alt="Linkedin"><img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:assaf.miron@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/AssafMiron/AssafMiron/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+  </p>
+
+  <p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=AssafMiron.visitor-badge">
+  </p>
+</p>
 
 <!--
 **AssafMiron/AssafMiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
