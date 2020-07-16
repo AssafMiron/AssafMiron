@@ -7,12 +7,13 @@ I’m currently working in **[CyberArk](https://CyberArk.com)** as a Product Man
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AssafMiron&show_icons=true)
 
+<p>
 Some of the projects i'm working on:
 
 <a href="https://github.com/cyberark/epv-api-scripts">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberark&repo=epv-api-scripts" />
 </a>
-
+</p>
 
 <hr>
 <p align="center">
