@@ -3,12 +3,20 @@
 ### Hi there 👋
 
 I'm a Product Manager who likes to script every now and then
-I’m currently working in **[CyberArk](https://CyberArk.com)** as a Product Manager also maintaining the [CyberArk EPV API sample repository](https://github.com/cyberark/epv-api-scripts) (feel free to contribute)
+I’m currently working in **[CyberArk](https://CyberArk.com)** as a Product Manager also maintaining the [CyberArk EPV API sample repository](https://github.com/cyberark/epv-api-scripts) and the [CyberArk hardening check](https://github.com/cyberark/CYBRHardeningCheck) (feel free to contribute)
 
 Some of the projects i'm working on:
 
 <a href="https://github.com/cyberark/epv-api-scripts">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberark&repo=epv-api-scripts" />
+</a>
+
+<a href="https://github.com/cyberark/CYBRHardeningCheck">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberark&repo=CYBRHardeningCheck" />
+</a>
+
+<a href="https://github.com/AssafMiron/CheckLatestVersion">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AssafMiron&repo=CheckLatestVersion" />
 </a>
 
 <br><br>
